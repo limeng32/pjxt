@@ -2796,7 +2796,7 @@ CARD 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o23">
 <a:CreationDate>1470822729</a:CreationDate>
 <a:ModificationDate>1475048457</a:ModificationDate>
-<a:Rect>((-45947,46140), (-37967,56354))</a:Rect>
+<a:Rect>((-45948,46140), (-37968,56354))</a:Rect>
 <a:ListOfPoints>((-44839,46140),(-38432,56354))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615680</a:LineColor>
@@ -2976,7 +2976,7 @@ CARD 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o48">
 <a:CreationDate>1471781267</a:CreationDate>
 <a:ModificationDate>1475048457</a:ModificationDate>
-<a:Rect>((-41005,47209), (-33445,58306))</a:Rect>
+<a:Rect>((-41006,47209), (-33446,58306))</a:Rect>
 <a:ListOfPoints>((-36107,47209),(-39160,58306))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615680</a:LineColor>
@@ -3096,7 +3096,7 @@ CARD 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o64">
 <a:CreationDate>1471786418</a:CreationDate>
 <a:ModificationDate>1475048457</a:ModificationDate>
-<a:Rect>((7940,38696), (17614,43256))</a:Rect>
+<a:Rect>((8713,38696), (17614,43256))</a:Rect>
 <a:ListOfPoints>((17614,43256),(8713,38696))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615680</a:LineColor>
@@ -3436,7 +3436,7 @@ CARD 0 新宋体,8,N</a:FontList>
 <o:ReferenceSymbol Id="o107">
 <a:CreationDate>1477291880</a:CreationDate>
 <a:ModificationDate>1477291880</a:ModificationDate>
-<a:Rect>((-47307,59376), (-36807,72286))</a:Rect>
+<a:Rect>((-47309,59376), (-36809,72286))</a:Rect>
 <a:ListOfPoints>((-43360,72286),(-40984,59376))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615680</a:LineColor>
@@ -4897,11 +4897,11 @@ TableComment 0 新宋体,8,N</a:FontList>
 <a:Code>nation</a:Code>
 <a:CreationDate>1470991134</a:CreationDate>
 <a:Creator>temp</a:Creator>
-<a:ModificationDate>1470996118</a:ModificationDate>
+<a:ModificationDate>1478085252</a:ModificationDate>
 <a:Modifier>temp</a:Modifier>
 <a:Comment>民族</a:Comment>
-<a:DataType>varchar(5)</a:DataType>
-<a:Length>5</a:Length>
+<a:DataType>char(3)</a:DataType>
+<a:Length>3</a:Length>
 </o:Column>
 <o:Column Id="o192">
 <a:ObjectID>7C54A864-4E96-4004-889C-214A732C8219</a:ObjectID>
@@ -4932,11 +4932,11 @@ TableComment 0 新宋体,8,N</a:FontList>
 <a:Code>politics</a:Code>
 <a:CreationDate>1470993368</a:CreationDate>
 <a:Creator>temp</a:Creator>
-<a:ModificationDate>1470996157</a:ModificationDate>
+<a:ModificationDate>1478085296</a:ModificationDate>
 <a:Modifier>temp</a:Modifier>
 <a:Comment>政治面貌</a:Comment>
-<a:DataType>varchar(20)</a:DataType>
-<a:Length>20</a:Length>
+<a:DataType>char(1)</a:DataType>
+<a:Length>1</a:Length>
 </o:Column>
 <o:Column Id="o195">
 <a:ObjectID>BC405B1E-CF78-4791-93BD-9022A92CE46E</a:ObjectID>
@@ -4944,11 +4944,11 @@ TableComment 0 新宋体,8,N</a:FontList>
 <a:Code>company</a:Code>
 <a:CreationDate>1470993436</a:CreationDate>
 <a:Creator>temp</a:Creator>
-<a:ModificationDate>1470996317</a:ModificationDate>
+<a:ModificationDate>1478085100</a:ModificationDate>
 <a:Modifier>temp</a:Modifier>
 <a:Comment>所在单位</a:Comment>
-<a:DataType>varchar(50)</a:DataType>
-<a:Length>50</a:Length>
+<a:DataType>char(4)</a:DataType>
+<a:Length>4</a:Length>
 </o:Column>
 <o:Column Id="o196">
 <a:ObjectID>B2666F28-5380-4F07-8207-6E7C36043423</a:ObjectID>
@@ -5028,11 +5028,11 @@ TableComment 0 新宋体,8,N</a:FontList>
 <a:Code>education</a:Code>
 <a:CreationDate>1470994234</a:CreationDate>
 <a:Creator>temp</a:Creator>
-<a:ModificationDate>1470996382</a:ModificationDate>
+<a:ModificationDate>1478085197</a:ModificationDate>
 <a:Modifier>temp</a:Modifier>
 <a:Comment>学历</a:Comment>
-<a:DataType>varchar(10)</a:DataType>
-<a:Length>10</a:Length>
+<a:DataType>char(1)</a:DataType>
+<a:Length>1</a:Length>
 </o:Column>
 <o:Column Id="o203">
 <a:ObjectID>B042BDBB-8793-4557-A6AE-7A1FB463FEF8</a:ObjectID>
@@ -5040,11 +5040,11 @@ TableComment 0 新宋体,8,N</a:FontList>
 <a:Code>degree</a:Code>
 <a:CreationDate>1470994259</a:CreationDate>
 <a:Creator>temp</a:Creator>
-<a:ModificationDate>1470996387</a:ModificationDate>
+<a:ModificationDate>1478085168</a:ModificationDate>
 <a:Modifier>temp</a:Modifier>
 <a:Comment>学位</a:Comment>
-<a:DataType>varchar(10)</a:DataType>
-<a:Length>10</a:Length>
+<a:DataType>char(1)</a:DataType>
+<a:Length>1</a:Length>
 </o:Column>
 <o:Column Id="o204">
 <a:ObjectID>3E82AE72-6F73-4D9E-ADE0-AA5DCFE22331</a:ObjectID>
@@ -5052,11 +5052,11 @@ TableComment 0 新宋体,8,N</a:FontList>
 <a:Code>professiontitle</a:Code>
 <a:CreationDate>1470994416</a:CreationDate>
 <a:Creator>temp</a:Creator>
-<a:ModificationDate>1470996396</a:ModificationDate>
+<a:ModificationDate>1478085326</a:ModificationDate>
 <a:Modifier>temp</a:Modifier>
 <a:Comment>职称</a:Comment>
-<a:DataType>varchar(20)</a:DataType>
-<a:Length>20</a:Length>
+<a:DataType>char(1)</a:DataType>
+<a:Length>1</a:Length>
 </o:Column>
 <o:Column Id="o205">
 <a:ObjectID>49E6B675-7570-473E-BE61-66CBA335257B</a:ObjectID>
